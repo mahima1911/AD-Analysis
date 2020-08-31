@@ -2,7 +2,7 @@
 Cluster Analysis for Ad Conversions Data 
 
 Dataset: https://www.kaggle.com/loveall/clicks-conversion-tracking
-Description of the dataset: 
+Description of the dataset: <br>
 1.) ad_id: an unique ID for each ad.
 
 2.) xyzcampaignid: an ID associated with each ad campaign of XYZ company.
